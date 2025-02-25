@@ -8,4 +8,4 @@ Pokémon Object System: Each Pokémon has unique properties and strengths (e.g.,
 Monster Ball Mechanics: Capture probability system based on Pokémon strength.
 Pokémon Directors: Battle through all Pokémon trainers to unlock the Pokémon Master.
 ASCII Art Design: Pokémon visuals are created using ASCII Code for a retro-style experience.
-Defeat all trainers, master type matchups, and catch Pokémon to become the ultimate Pokémon Master! 🚀🔥🎮
+Defeat all trainers, Pokémon master, and catch Pokémon to become the ultimate Pokémon Master! 🚀🔥🎮
